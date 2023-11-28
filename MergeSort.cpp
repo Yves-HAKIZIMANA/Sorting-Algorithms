@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include <vector>
-#include <valarray>
+
 
 void merge(vector<int>& left, vector<int> &right, vector<int> &result){
     int i  = 0, j = 0, k = 0;
